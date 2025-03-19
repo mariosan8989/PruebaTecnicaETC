@@ -21,14 +21,14 @@
     "typescript": "^5.8.2"
   },
   "Credencials": {
-    "user": "isaasanchez95@gmail.com",
-    "password": "Mipechochona95"
+    "user": "@user",
+    "password": "@password"
   },
   "Url": {
     "url": "www.netflix.com"
   },
   "Profiles": {
-    "profile": "Mario"
+    "profile": "Definir Su Perfil"
   },
   "OpcionesMenu": {
     "opcion1": "Películas"
