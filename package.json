@@ -1,0 +1,45 @@
+{
+  "name": "pruebatecnicaetc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariosan8989/PruebaTecnicaETC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariosan8989/PruebaTecnicaETC/issues"
+  },
+  "homepage": "https://github.com/mariosan8989/PruebaTecnicaETC#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.10",
+    "typescript": "^5.8.2"
+  },
+  "Credencials": {
+    "user": "isaasanchez95@gmail.com",
+    "password": "Mipechochona95"
+  },
+  "Url": {
+    "url": "www.netflix.com"
+  },
+  "Profiles": {
+    "profile": "Mario"
+  },
+  "OpcionesMenu": {
+    "opcion1": "Películas"
+  },
+  "OpcionesGenero": {
+    "opcion1": "Terror"
+  },
+  "TotalNamesMovies": {
+    "total": 3
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^11.2.0"
+  }
+}
